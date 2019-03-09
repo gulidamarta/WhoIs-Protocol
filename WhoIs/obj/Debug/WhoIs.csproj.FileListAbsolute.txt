@@ -1,0 +1,9 @@
+C:\Users\marta\source\repos\WhoIs\WhoIs\bin\Debug\WhoIs.exe
+C:\Users\marta\source\repos\WhoIs\WhoIs\bin\Debug\WhoIs.pdb
+C:\Users\marta\source\repos\WhoIs\WhoIs\obj\Debug\WhoIs.csprojAssemblyReference.cache
+C:\Users\marta\source\repos\WhoIs\WhoIs\obj\Debug\WhoIs.Form1.resources
+C:\Users\marta\source\repos\WhoIs\WhoIs\obj\Debug\WhoIs.Properties.Resources.resources
+C:\Users\marta\source\repos\WhoIs\WhoIs\obj\Debug\WhoIs.csproj.GenerateResource.cache
+C:\Users\marta\source\repos\WhoIs\WhoIs\obj\Debug\WhoIs.csproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\WhoIs\WhoIs\obj\Debug\WhoIs.exe
+C:\Users\marta\source\repos\WhoIs\WhoIs\obj\Debug\WhoIs.pdb
