@@ -16,12 +16,12 @@ namespace WhoIs
             client.Connect("whois.networksolutions.com", 43);
 
             domain += "\r\n";
-            byte[] arrDomain = Encoding.UTF8.GetBytes(domain);
+            byte[] arrDomain = Encoding.ASCII.GetBytes(domain);
 
             Stream str = client.GetStream();
             str.Write(arrDomain, 0, domain.Length);
 
-            StreamReader reader = new StreamReader(client.GetStream(), Encoding.UTF8);
+            StreamReader reader = new StreamReader(client.GetStream(), Encoding.ASCII);
             string info = "";
 
             if(type == ResultType.TextBox)
